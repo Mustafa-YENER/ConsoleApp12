@@ -9,6 +9,12 @@ namespace ConsoleApp1
 
             int x = 2545;
 
+            int x1= 2545;
+
+          
+
+
+
 
             Console.WriteLine("Hello World!");
         }
