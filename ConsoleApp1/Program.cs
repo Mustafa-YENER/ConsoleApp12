@@ -7,16 +7,11 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
 
-            int x = 2545;
+            int number = 2545;
+            int price= 2545;
+            float total = number + price;
 
-            int x1= 2545;
-
-          
-
-
-
-
-            Console.WriteLine("Hello World!");
+            Console.WriteLine($"Hello World!   Total = {total}");
         }
     }
 }
